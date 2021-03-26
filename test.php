@@ -1,4 +1,2 @@
-test2
-test3
-test1:wq
-test
+test rebase 1
+test rebase 2
